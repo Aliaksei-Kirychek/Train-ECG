@@ -1,0 +1,6 @@
+outs:
+- md5: 3db7028cbde553795c3faab33b35eeb4.dir
+  size: 1514654787
+  nfiles: 3222
+  hash: md5
+  path: PDF_datasets
